@@ -1,0 +1,158 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.mobile-app-banner{
+    background-image: url(banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 672px;
+}
+.mobile-app-banner-content{
+    margin-top: 230px;
+    color: white;
+    border: 465px;
+    
+
+}
+.content h1{
+    
+    font-size: 42px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    
+
+}
+.content p{
+    
+    font-size: 14px;
+    margin-top: 25px;
+    
+
+}
+.buttons{
+    margin-top: 35px;
+    display: inline-block;
+    
+}
+.btn{
+    border: solid 0.2px white;
+    background-color: #fb527a;
+    padding: 17px 38px;
+    
+
+
+}
+.btn-pink{
+
+}
+.btn-blue{
+    margin-left: 30px;
+
+}
+
+/*****services******/
+
+.heading h3{
+    color: #393636;
+    font-weight: bold;
+    
+}
+.mobile-app-services{
+
+}
+.feature-text{
+    border: 2px solid #ddd;
+    padding: 20px;
+    border-radius: 6px;
+    margin-bottom: 25px;
+
+}
+
+.feature-text:hover{
+    border-top: 6px solid #fb527a;
+    
+    
+}
+
+.feature-text h4{
+    margin: 40px 0px;
+
+}
+
+
+
+
+
+
+.img-hover1{
+    background: url(service/h1-h4.png);
+    height: 60px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+   
+}
+.img-hover2{
+    background: url(service/h2.png);
+    height: 60px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+}
+.img-hover3{
+    background: url(service/h3.png);
+    height: 60px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+}
+.img-hover4{
+    background: url(service/h1-h4.png);
+    height: 60px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+}
+.img-hover5{
+    background: url(service/h5.png);
+    height: 60px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+}
+.img-hover6{
+    background: url(service/h6.png);
+    height: 60px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+}
+.img-hover7{
+    background: url(service/h7.png);
+    height: 60px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+}
+.img-hover8{
+    background: url(service/h8.png);
+    height: 60px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+}
+
+
+
+
+
+
+/*****video******/
+.overly-image{
+    
+}
